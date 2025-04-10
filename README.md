@@ -15,8 +15,8 @@ This setup allows you to self-host n8n easily using Docker, providing a persiste
 
 1.  **Clone the repository (if you haven't already):**
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/themahani/n8n.git
+    cd n8n
     ```
 
 2.  **Create a `.env` file:**
